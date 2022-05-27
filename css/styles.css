@@ -1,0 +1,41 @@
+/* Class Selectors */
+
+.cup {
+    background-color: slategrey;
+}
+
+.pizza {
+    background-color: burlywood;
+}
+
+.semi-circle {
+    border-radius: 6%;
+}
+
+.cup:hover {
+    background-color: silver;
+}
+
+.pizza:hover {
+    background-color: firebrick;
+}
+
+/* ID Selectors */
+
+#heading {
+    color: crimson;
+}
+
+#name {
+    font-style: oblique;
+}
+
+/* Tag Selector */
+
+body {
+    background-color:lavender;
+}
+
+p {
+    color: indianred;
+}
